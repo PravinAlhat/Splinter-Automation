@@ -1,0 +1,5 @@
+01/27/2020 06:17:39 PM -baseClass - INFO: [PASS] Method: 'Splinter_Project.Base._baseClass_BG_broswerLanunch'Browser chrome is successfully launched
+01/27/2020 06:17:39 PM -baseClass - ERROR: [FAIL] Method: Splinter_Project.Base._baseClass_BG_getTypeInvalid locatorType://div[@id='div1']//img[@id='drag1']
+01/27/2020 06:17:39 PM -baseClass - ERROR: [FAIL] Method: 'Splinter_Project.Base._baseClass_BG_getElement'Element not found using locator //div[@id='div1']//img[@id='drag1'] and locatorType xpath
+01/27/2020 06:17:39 PM -baseClass - ERROR: [FAIL] Method: Splinter_Project.Base._baseClass_BG_getTypeInvalid locatorType://div[@id='div2']
+01/27/2020 06:17:39 PM -baseClass - ERROR: [FAIL] Method: 'Splinter_Project.Base._baseClass_BG_getElement'Element not found using locator //div[@id='div2'] and locatorType xpath
